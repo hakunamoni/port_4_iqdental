@@ -1,14 +1,13 @@
 # IQ Dental Supply (2019-2022)
 
-![demo](/img/port_change_order.jpg)
-
 ## Requirement
 
 ```bash
 - Analyze, diagnose and resolve issues with legacy business implementation and new requirements.
 - Implement and build website on Netsuite’s SuiteCommerce Advanced framework using Backbone.js
 and Sass to integrate with the NetSuite platform.
-- Work with retail stores’ team and provide solutions on the NetSuite to integrate those retail stores.
+- Work with retail stores’ team and provide solutions on the NetSuite to integrate those retail
+stores.
 
 Technologies used: SuiteScript, SuiteCommerce Advanced, API Integration, SiteBuilder, Celigo
 
