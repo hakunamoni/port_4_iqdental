@@ -1,6 +1,6 @@
 # IQ Dental Supply (2019-2022)
 
-![demo](/img/iq_int_0.jpg)
+![demo](/img/port_iq_dental.jpg)
 
 ## Requirement
 
@@ -29,7 +29,7 @@ Technologies used: SuiteScript, SuiteCommerce Advanced, API Integration, SiteBui
 
 ### API Integration
 
-![demo](/img/iq_int_0.jpg)
+![demo](/img/port_iq_dental.jpg)
 
 Net32
 ![demo](/img/iq_int_net32_0.jpg)
